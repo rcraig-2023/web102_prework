@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/15ba627475fc46afbf2e371edd20379f?sid=82a40dfe-41f8-4e02-a557-5522e00800b2' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/VaN5N6M' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -35,6 +35,7 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+- I had a challenge with creating the addGamesToPage function because I had to fix it to make sure that the function looped through all the games.
 - I had a challenge unlocking Challenge #4 because I had a misunderstanding of the question being asked for Component 2 in Challenge #3.
 - I had a challenge correctly formatting the ternary operator in Challenge #6.
 
