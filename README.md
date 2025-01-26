@@ -28,8 +28,7 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Loom](https://www.loom.com/) -->
+[Loom](https://www.loom.com/)
 
 ## Notes
 
